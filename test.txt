@@ -1,1 +1,4 @@
 You will also notice that this "snarky, wittier-than-though person" provided the accepted answer for this question and 72 people (probably including you) found it helpful. I'm sorry that my comment came across as arrogant, but it would have been my first question if you had asked me that question in a professional context as well. 
+
+
+NOTICE: This is never a recommended use of git. This will overwrite changes on the remote. Only do this if you know 100% that your local changes should be pushed to the remote master.
